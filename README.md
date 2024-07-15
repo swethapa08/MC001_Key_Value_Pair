@@ -2,12 +2,12 @@
 
 Greetings Everyone,
 
-## INTRODUCTION
+## Introduction
   The MC001 assignment focuses on the application of graph theory and machine learning to extract, visualize, and predict key-value pairs from unstructured data. By utilizing Optical Character Recognition (OCR), text pre-processing, Named Entity Recognition (NER), and 
   machine learning techniques, the project generates a graph highlighting relationships between key-value pairs in a sample bill image and predicts the accuracy of these relationships. This feature is integrated into a mobile application, allowing users to interactively 
   highlight key-value pairs within unstructured data.
 
-## OBJECTIVE
+## Objective
   The primary objective is to develop a system that accurately identifies, visualizes, and predicts key-value pairs from an unstructured data using graph theory and machine learning. 
   The goals include:
 
