@@ -1,4 +1,4 @@
-# Key-Value Pair Identification Using Graph Theory(Code : MC001)
+# Key-Value Pair Identification Using Graph Theory(Code: MC001)
 
 ## Introduction
   The MC001 assignment focuses on the application of graph theory and machine learning to extract, visualize, and predict key-value pairs from unstructured data. By utilizing Optical Character Recognition (OCR), text pre-processing, Named Entity Recognition (NER), and 
